@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight</string>
+    <string name="flashlight">flashlight</string>
+    <string name="screen">screen</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="camera_error">Camera isn\'t available!</string>
+    
+</resources>
